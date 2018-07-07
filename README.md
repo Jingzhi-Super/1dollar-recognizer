@@ -7,4 +7,4 @@ Wobbrock, J. O., Wilson, A. D., & Li, Y. (2007, October). Gestures without libra
 with MATLAB.
 
 To start GUI click INK.m.
-The program recognzies digits from 0 to 9.
+The program recognzies digits from 0 to 9. Prefer to draw digits in one stroke.
